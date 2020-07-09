@@ -88,6 +88,7 @@
     return @{
              @"manufacturer": @"Apple",
              @"model": [device modelVersion],
+             @"name": [device name],
              @"platform": @"iOS",
              @"version": [device systemVersion],
              @"uuid": [self uniqueAppInstanceIdentifier:device],
