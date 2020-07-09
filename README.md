@@ -45,6 +45,7 @@ function onDeviceReady() {
 
 - device.cordova
 - device.model
+- device.name(iOS)
 - device.platform
 - device.uuid
 - device.version
